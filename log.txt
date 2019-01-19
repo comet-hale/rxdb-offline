@@ -1136,3 +1136,742 @@
 [Thu, 17 Jan 2019 15:30:56 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
 [Thu, 17 Jan 2019 15:30:56 GMT] [info] [<0.000.0>] database files will be saved to ./db
 [Thu, 17 Jan 2019 15:30:56 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 15:36:12 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 15:36:12 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 15:36:12 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 16:04:32 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 16:04:32 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 16:04:32 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 16:05:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 16:05:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 16:05:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 16:24:12 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 16:24:12 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 16:24:12 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 18:38:50 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 18:38:50 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 18:38:50 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 18:39:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 18:39:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 18:39:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 18:39:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 18:39:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 18:39:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 18:39:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750342912 200
+[Thu, 17 Jan 2019 18:39:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750342913 200
+[Thu, 17 Jan 2019 18:39:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750342914 200
+[Thu, 17 Jan 2019 18:39:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 18:39:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750342915 200
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750345847 200
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750345848 200
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750345849 200
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750345850 200
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 18:39:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750365759 200
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750365760 200
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750365761 200
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750365762 200
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 18:39:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 18:39:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750365763 200
+[Thu, 17 Jan 2019 18:39:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750365764 200
+[Thu, 17 Jan 2019 18:39:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750365765 200
+[Thu, 17 Jan 2019 18:40:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:37 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 18:40:37 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 18:40:37 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 18:40:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:47 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:47 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:50 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:50 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:55 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:55 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:56 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:40:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 18:41:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 18:41:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 18:41:10 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:10 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750473663 200
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750473664 200
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750473665 200
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750473666 200
+[Thu, 17 Jan 2019 18:41:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 18:41:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Thu, 17 Jan 2019 18:41:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 200
+[Thu, 17 Jan 2019 18:41:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750473667 200
+[Thu, 17 Jan 2019 18:41:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_design/_auth?conflicts=true 200
+[Thu, 17 Jan 2019 18:41:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Thu, 17 Jan 2019 18:41:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:41:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Thu, 17 Jan 2019 18:42:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750523326 200
+[Thu, 17 Jan 2019 18:42:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523327 200
+[Thu, 17 Jan 2019 18:42:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750523328 200
+[Thu, 17 Jan 2019 18:42:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750523329 200
+[Thu, 17 Jan 2019 18:42:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:42:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:11 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:11 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:18 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:18 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:43:52 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:44:20 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750523330 200
+[Thu, 17 Jan 2019 18:44:20 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750523331 200
+[Thu, 17 Jan 2019 18:44:20 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750523332 200
+[Thu, 17 Jan 2019 18:44:34 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:44:34 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:44:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:44:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:45:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 200
+[Thu, 17 Jan 2019 18:45:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_membership 304
+[Thu, 17 Jan 2019 18:45:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_node/node1@127.0.0.1/_config 304
+[Thu, 17 Jan 2019 18:45:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750523333 200
+[Thu, 17 Jan 2019 18:45:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750523334 200
+[Thu, 17 Jan 2019 18:45:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750523335 200
+[Thu, 17 Jan 2019 18:45:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 18:45:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 304
+[Thu, 17 Jan 2019 18:45:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523336 200
+[Thu, 17 Jan 2019 18:45:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_design/_auth?conflicts=true 304
+[Thu, 17 Jan 2019 18:45:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Thu, 17 Jan 2019 18:45:51 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:45:51 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:45:55 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 18:45:55 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 304
+[Thu, 17 Jan 2019 18:45:55 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523337 200
+[Thu, 17 Jan 2019 18:45:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:45:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:46:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_design/_auth/_info 304
+[Thu, 17 Jan 2019 18:46:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523338 200
+[Thu, 17 Jan 2019 18:46:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 304
+[Thu, 17 Jan 2019 18:46:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523339 200
+[Thu, 17 Jan 2019 18:46:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_index? 304
+[Thu, 17 Jan 2019 18:46:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 304
+[Thu, 17 Jan 2019 18:46:08 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /_users/_find 200
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?limit=21&include_docs=true 304
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547750523340 200
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547750523341 200
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547750523342 200
+[Thu, 17 Jan 2019 18:46:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547750523343 200
+[Thu, 17 Jan 2019 18:47:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:47:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:47:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 18:47:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /_utilsprojects/messages/ 404
+[Thu, 17 Jan 2019 19:02:17 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:02:17 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:02:17 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:04:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:04:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:04:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:08:26 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:08:26 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:08:26 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:12:47 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:12:47 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:12:47 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:18:58 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:18:58 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:18:58 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:21:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:21:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:21:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:32:38 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:32:38 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:32:38 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:33:08 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:33:08 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:33:08 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:35:22 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:35:22 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:35:22 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:36:36 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:36:36 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:36:36 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:43:04 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:43:04 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:43:04 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:44:33 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:44:33 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:44:33 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:48:17 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 19:48:17 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 19:48:17 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 19:48:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 200
+[Thu, 17 Jan 2019 19:48:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 19:48:35 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547754518364 200
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754518365 200
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547754518366 200
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547754518367 200
+[Thu, 17 Jan 2019 19:48:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547754521655 200
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754521656 200
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547754521657 200
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547754521658 200
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 19:48:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547754549552 200
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754549553 200
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547754549554 200
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547754549555 200
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 19:49:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 19:49:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547754549556 200
+[Thu, 17 Jan 2019 19:49:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547754549557 200
+[Thu, 17 Jan 2019 19:49:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547754549558 200
+[Thu, 17 Jan 2019 19:49:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22p%22&endkey=%22p%E9%A6%99%22&limit=30&_=1547754549559 200
+[Thu, 17 Jan 2019 19:49:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22pr%22&endkey=%22pr%E9%A6%99%22&limit=30&_=1547754549560 200
+[Thu, 17 Jan 2019 19:49:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22pro%22&endkey=%22pro%E9%A6%99%22&limit=30&_=1547754549561 200
+[Thu, 17 Jan 2019 19:49:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22proj%22&endkey=%22proj%E9%A6%99%22&limit=30&_=1547754549562 200
+[Thu, 17 Jan 2019 19:49:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22proje%22&endkey=%22proje%E9%A6%99%22&limit=30&_=1547754549563 200
+[Thu, 17 Jan 2019 19:49:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22projec%22&endkey=%22projec%E9%A6%99%22&limit=30&_=1547754549564 200
+[Thu, 17 Jan 2019 19:49:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22project%22&endkey=%22project%E9%A6%99%22&limit=30&_=1547754549565 200
+[Thu, 17 Jan 2019 19:49:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22projects%22&endkey=%22projects%E9%A6%99%22&limit=30&_=1547754549566 200
+[Thu, 17 Jan 2019 19:49:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /projects 201
+[Thu, 17 Jan 2019 19:49:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Thu, 17 Jan 2019 19:49:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 200
+[Thu, 17 Jan 2019 19:49:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754549567 200
+[Thu, 17 Jan 2019 19:49:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 304
+[Thu, 17 Jan 2019 19:49:34 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_index? 200
+[Thu, 17 Jan 2019 19:49:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 19:49:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:49:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754549568 200
+[Thu, 17 Jan 2019 19:49:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:49:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:49:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 19:49:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754599889 200
+[Thu, 17 Jan 2019 19:50:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 304
+[Thu, 17 Jan 2019 19:50:00 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 19:50:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_index? 304
+[Thu, 17 Jan 2019 19:50:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Thu, 17 Jan 2019 19:50:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:50:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547754599890 200
+[Thu, 17 Jan 2019 19:50:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:50:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:50:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:50:04 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_all_docs?limit=21 304
+[Thu, 17 Jan 2019 19:50:14 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_index? 304
+[Thu, 17 Jan 2019 19:50:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /projects/_index? 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 17 Jan 2019 19:50:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 17 Jan 2019 20:03:02 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 20:03:02 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 20:03:02 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 20:12:26 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 20:12:26 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 20:12:26 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 17 Jan 2019 20:13:53 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 17 Jan 2019 20:13:53 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 17 Jan 2019 20:13:53 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 00:41:30 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 00:41:30 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 00:41:30 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 00:53:06 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 00:53:06 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 00:53:06 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:10:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:10:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:10:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:30:31 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:30:31 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:30:31 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:32:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:32:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:32:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:33:56 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:33:56 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:33:56 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:34:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 200
+[Sat, 19 Jan 2019 02:34:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 02:34:21 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547865263314 200
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547865263315 200
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547865263316 200
+[Sat, 19 Jan 2019 02:34:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547865263317 200
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547865265187 200
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547865265188 200
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547865265189 200
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547865265190 200
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 02:34:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 02:37:03 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:37:03 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:37:03 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:40:03 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:40:03 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:40:03 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:44:00 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:44:00 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:44:00 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 02:58:34 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 02:58:34 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 02:58:34 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 04:10:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547871028339 200
+[Sat, 19 Jan 2019 04:10:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547871028340 200
+[Sat, 19 Jan 2019 04:10:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547871028341 200
+[Sat, 19 Jan 2019 04:10:28 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547871028342 200
+[Sat, 19 Jan 2019 04:11:56 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 04:11:56 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 04:11:56 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 04:13:37 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 04:13:37 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 04:13:37 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 04:20:37 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 04:20:37 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 04:20:37 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 04:35:39 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 04:35:39 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 04:35:39 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 04:57:49 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 04:57:49 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 04:57:49 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 05:09:14 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 05:09:14 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 05:09:14 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:05:42 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 09:05:42 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 09:05:42 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:05:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:05:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:05:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547888759620 200
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547888759621 200
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547888759622 200
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547888759623 200
+[Sat, 19 Jan 2019 09:05:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547888761678 200
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547888761679 200
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547888761680 200
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547888761681 200
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:06:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547888767749 200
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547888767750 200
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547888767751 200
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547888767752 200
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:06:07 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547888895590 200
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547888895591 200
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547888895592 200
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547888895593 200
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:08:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:22:53 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 09:22:53 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 09:22:53 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:24:10 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 09:24:10 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 09:24:10 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/ 404
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/ 201
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D? 404
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&since=0&limit=100 304
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D? 404
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D 201
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 404
+[Sat, 19 Jan 2019 09:24:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D 201
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils 301
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547889882447 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889882448 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547889882449 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547889882451 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547889882450 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 200
+[Sat, 19 Jan 2019 09:24:42 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:25:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Sat, 19 Jan 2019 09:25:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 200
+[Sat, 19 Jan 2019 09:25:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889882452 200
+[Sat, 19 Jan 2019 09:25:57 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 200
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_revs_diff 200
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_bulk_docs 201
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=0&limit=100 200
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D? 200
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D 201
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 200
+[Sat, 19 Jan 2019 09:26:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D 201
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 200
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977587 200
+[Sat, 19 Jan 2019 09:26:17 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:26:22 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/1547889973688?conflicts=true 200
+[Sat, 19 Jan 2019 09:26:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Sat, 19 Jan 2019 09:26:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547889977588 200
+[Sat, 19 Jan 2019 09:26:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977589 200
+[Sat, 19 Jan 2019 09:26:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547889977590 200
+[Sat, 19 Jan 2019 09:26:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547889977591 200
+[Sat, 19 Jan 2019 09:26:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547889977592 200
+[Sat, 19 Jan 2019 09:26:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs 200
+[Sat, 19 Jan 2019 09:26:46 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator/_all_docs?include_docs=true&limit=100 200
+[Sat, 19 Jan 2019 09:27:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547889977593 200
+[Sat, 19 Jan 2019 09:27:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547889977594 200
+[Sat, 19 Jan 2019 09:27:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547889977595 200
+[Sat, 19 Jan 2019 09:27:09 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547889977596 200
+[Sat, 19 Jan 2019 09:27:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:27:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:27:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977597 200
+[Sat, 19 Jan 2019 09:28:13 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=1&limit=99 200
+[Sat, 19 Jan 2019 09:28:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:28:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 200
+[Sat, 19 Jan 2019 09:28:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&since=1&limit=100 200
+[Sat, 19 Jan 2019 09:28:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 304
+[Sat, 19 Jan 2019 09:29:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:29:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977598 200
+[Sat, 19 Jan 2019 09:29:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_security 200
+[Sat, 19 Jan 2019 09:29:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:29:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?limit=100 200
+[Sat, 19 Jan 2019 09:29:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977599 200
+[Sat, 19 Jan 2019 09:29:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:29:15 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977600 200
+[Sat, 19 Jan 2019 09:30:16 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=1&limit=100 200
+[Sat, 19 Jan 2019 09:30:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:30:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 304
+[Sat, 19 Jan 2019 09:30:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&since=1&limit=100 304
+[Sat, 19 Jan 2019 09:30:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 304
+[Sat, 19 Jan 2019 09:30:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547889977601 200
+[Sat, 19 Jan 2019 09:30:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547889977602 200
+[Sat, 19 Jan 2019 09:30:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547889977603 200
+[Sat, 19 Jan 2019 09:30:40 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547889977604 200
+[Sat, 19 Jan 2019 09:30:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:30:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:30:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977605 200
+[Sat, 19 Jan 2019 09:30:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?include_docs=true&conflicts=true&limit=21 200
+[Sat, 19 Jan 2019 09:30:50 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:30:51 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?include_docs=true&conflicts=true&limit=21 304
+[Sat, 19 Jan 2019 09:31:18 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/1547889973688?conflicts=true 304
+[Sat, 19 Jan 2019 09:31:18 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/1547889973688?conflicts=true 201
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=1&limit=100 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_bulk_get?revs=true&latest=true 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547889977606 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_revs_diff 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D? 200
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D? 304
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/xDK87MHvngdm9waSVPm1Vw%3D%3D 201
+[Sat, 19 Jan 2019 09:31:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/Yce9eDFchH8BnV4qfOfBXw%3D%3D 201
+[Sat, 19 Jan 2019 09:32:53 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 09:32:53 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 09:32:53 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:56:42 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 09:56:42 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 09:56:42 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/ 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D? 404
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&since=0&limit=100 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D? 404
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&since=2&limit=100 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_bulk_get?revs=true&latest=true 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D 201
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D? 404
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_revs_diff 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D? 200
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D 201
+[Sat, 19 Jan 2019 09:56:49 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D 201
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:57:05 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547891825881 200
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891825882 200
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547891825883 200
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547891825885 200
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547891825884 200
+[Sat, 19 Jan 2019 09:57:06 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:57:08 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:57:08 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:57:08 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891825886 200
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_revs_diff 200
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_bulk_docs 201
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=2&limit=100 200
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D? 200
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D 201
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D? 200
+[Sat, 19 Jan 2019 09:57:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D 201
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_revs_diff 200
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - POST /chatdb/_bulk_docs 201
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=3&limit=99 200
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D? 200
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/o.VXbZKp6x.e9HbZMXAvjQ%3D%3D 201
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D? 200
+[Sat, 19 Jan 2019 09:57:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /chatdb/_local/L41ohmHkmZEb2jYARvyk0w%3D%3D 201
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 200
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891849584 200
+[Sat, 19 Jan 2019 09:57:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Sat, 19 Jan 2019 09:57:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/1547889973688?conflicts=true 200
+[Sat, 19 Jan 2019 09:57:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Sat, 19 Jan 2019 09:57:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547891849585 200
+[Sat, 19 Jan 2019 09:57:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891849586 200
+[Sat, 19 Jan 2019 09:57:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547891849587 200
+[Sat, 19 Jan 2019 09:57:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547891849588 200
+[Sat, 19 Jan 2019 09:57:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547891849589 200
+[Sat, 19 Jan 2019 09:57:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:57:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:57:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891849590 200
+[Sat, 19 Jan 2019 09:57:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/1547891844303?conflicts=true 200
+[Sat, 19 Jan 2019 09:57:48 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Sat, 19 Jan 2019 09:57:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1547891849591 200
+[Sat, 19 Jan 2019 09:57:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1547891849592 200
+[Sat, 19 Jan 2019 09:57:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1547891849593 200
+[Sat, 19 Jan 2019 09:57:58 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb?_=1547891849594 200
+[Sat, 19 Jan 2019 09:57:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Sat, 19 Jan 2019 09:57:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?limit=21 304
+[Sat, 19 Jan 2019 09:57:59 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1547891849595 200
+[Sat, 19 Jan 2019 09:58:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/1547889973688?conflicts=true 304
+[Sat, 19 Jan 2019 09:58:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_uuids?count=1 200
+[Sat, 19 Jan 2019 09:58:50 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /chatdb/_changes?style=all_docs&feed=longpoll&heartbeat=10000&since=4&limit=98 200
+[Sat, 19 Jan 2019 10:00:34 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 10:00:34 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 10:00:34 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 12:59:45 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 12:59:45 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 12:59:45 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Sat, 19 Jan 2019 13:35:35 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Sat, 19 Jan 2019 13:35:35 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Sat, 19 Jan 2019 13:35:35 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
